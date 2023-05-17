@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="EatFood là app đặt đồ ăn được phát triển bởi huyyyyyyyyyy
+, cung câp nhiều dịch vụ cung cấp nhiều dịch vụ tiện ích bao gồm: giao
+đồ ăn, thức uống,...EatFood có thể đáp ứng nhu cầu của bạn 1 cách nhanh chóng
+chỉ với một vài bước đơn giản."
+        android:textSize="20dp" />
+
+</LinearLayout>

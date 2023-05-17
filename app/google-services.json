@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "513519281679",
+    "firebase_url": "https://foodfirebase-ec9b7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "foodfirebase-ec9b7",
+    "storage_bucket": "foodfirebase-ec9b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513519281679:android:d4ab8b7ac543a93a3be57a",
+        "android_client_info": {
+          "package_name": "com.example.appdoan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513519281679-cobma23emb7e94vjc126c1ugd09ie8sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7eMAWvY8sCuflVcpT0F7Fa0cmdhjwRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513519281679-cobma23emb7e94vjc126c1ugd09ie8sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513519281679:android:e244cfa7dfc8de8b3be57a",
+        "android_client_info": {
+          "package_name": "com.example.apporderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513519281679-cobma23emb7e94vjc126c1ugd09ie8sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7eMAWvY8sCuflVcpT0F7Fa0cmdhjwRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513519281679-cobma23emb7e94vjc126c1ugd09ie8sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
